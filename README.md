@@ -106,12 +106,3 @@ Do not use this project for spam, abuse, or unauthorized data harvesting.
 * Semantic candidate-job matching
 * Web dashboard
 * Resume enrichment pipeline
-
----
-
-## License
-
-MIT License
-
-```
-```
